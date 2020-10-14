@@ -1,0 +1,1 @@
+<?php $CTRL->tableScript($modulo); ?>

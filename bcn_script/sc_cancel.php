@@ -1,0 +1,1 @@
+<?php $CTRL->cancelScript($modulo); ?>

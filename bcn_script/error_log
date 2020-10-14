@@ -1,0 +1,2 @@
+[23-Sep-2020 20:07:34 UTC] PHP Fatal error:  Call to a member function basicScript() on null in /home/demo/public_html/komax/admin_bcn/bcn_script/sc_basic.php on line 1
+[23-Sep-2020 20:08:25 UTC] PHP Fatal error:  Call to a member function basicScript() on null in /home/demo/public_html/komax/admin_bcn/bcn_script/sc_basic.php on line 1

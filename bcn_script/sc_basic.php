@@ -1,0 +1,1 @@
+<?php $CTRL->basicScript($modulo); 

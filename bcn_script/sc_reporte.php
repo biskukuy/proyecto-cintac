@@ -1,0 +1,1 @@
+<?php $CTRL->reportScript($idRep,$destinoRep,$validacion); ?>
